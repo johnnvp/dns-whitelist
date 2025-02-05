@@ -444,12 +444,6 @@ help.ui.xboxlive.com
 licensing.xboxlive.com
 eds.xboxlive.com
 www.xboxlive.com
-v10.events.data.microsoft.com
-us-v10.events.data.microsoft.com
-eu-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-us-v20.events.data.microsoft.com
-eu-v20.events.data.microsoft.com
 unlocker.emptyloop.com
 emptyloop.com
 www.emptyloop.com
@@ -1786,7 +1780,6 @@ myabandonware.com
 cdn-noc.net
 go.e2language.com
 disguised.nl
-self.events.data.microsoft.com
 player-cdn.com
 xep.li
 ff-01.com
@@ -1860,7 +1853,6 @@ de.ioam.de
 asadcdn.com
 appboy-images.com
 www.asadcdn.com
-browser.events.data.microsoft.com
 target.microsoft.com
 go.trouter.skype.com
 c00.adobe.com
