@@ -26,8 +26,8 @@ ns-mlab.nl
 vm.tiktok.com
 www.tiktok.com
 secure.gravatar.com
-ads.google.com^$client=Johnlaptop
-displayads-formats.googleusercontent.com^$client=Johnlaptop
+ads.google.com
+displayads-formats.googleusercontent.com
 eventstream.ring.com
 api.ring.com
 api.prod.signalling.ring.devices.a2z.com
