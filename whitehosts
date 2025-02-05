@@ -192,7 +192,6 @@ ct.pinterest.com
 customerevents.netflix.com
 bazoom.com
 mywot.com
-.mywot.com
 lib.rus.ec
 gstatic.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
@@ -200,7 +199,6 @@ privacy-policy.truste.com
 logrocket.com
 dbs.com
 cdn-apple.com
-.cdn-apple.com
 esprima.org
 loggly.com
 www.msn.com
@@ -266,7 +264,7 @@ g.live.com
 g.msn.com
 snmmd.nl
 etl.tindersparks.com
-.tindersparks.com
+tindersparks.com
 ftpcontent.worldnow.com
 tag.aticdn.net
 pic.pic-img.com
@@ -334,23 +332,14 @@ spclient.spotify.com
 raw.githubusercontent.com
 github.com
 letsencrypt.org
-.letsencrypt.org
-.opendns.com
 opendns.com
 mvps.org
-.mvps.org
 someonewhocares.com
-.someonewhocares.com
 yoyo.org
-.yoyo.org
 lehigh.edu
-.lehigh.edu
 dshield.org
-.dshield.org
 shallalist.de
-.shallalist.de
 adtidy.org
-.adtidy.org
 easylist-downloads.adblockplus.org
 www.void.gr
 void.gr
@@ -403,9 +392,8 @@ dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 www.serials.ws
 serials.ws
-.gravatar.com
 gravatar.com
-.msa.akadns6.net
+msa.akadns6.net
 akadns6.net
 login.live.com
 live.com
@@ -531,10 +519,8 @@ custhelp.com
 sevenforums.com
 www.sevenforums.com
 rackcdn.com
-pmenboeqhyrpvomq.
 olark.com
 lithium.com
-.lithium.com
 jdownloader.org
 www.jdownloader.org
 pastebin.com
@@ -770,7 +756,6 @@ who.int
 wiley.com
 pbs.org
 un.org
-.un.org
 plesk.com
 buzzfeed.com
 jiathis.com
@@ -1106,7 +1091,6 @@ graph.facebook.com
 graph.facebook.net
 graph.accountkit.com
 coinbase.com
-.coinbase.com
 dwq4do82y8xi7.cloudfront.net
 a1.mzstatic.com
 i0.web.de
@@ -1117,7 +1101,7 @@ phonearena.com
 dansguardian.org
 schibsted.io
 vwdservices.com
-.0.com
+0.com
 href.li
 streamillimit.com
 apresolve.spotify.com
@@ -1200,12 +1184,9 @@ autoscout24.com
 www.eightforums.com
 gfwsl.geforce.com
 localcontent.huffingtonpost.com
-.scene7.com
 scene7.com
 yottaa.net
-.yottaa.net
 atomz.com
-.atomz.com
 js.stripe.com
 mirrors.163.com
 ejquo23388.i.lithium.com
@@ -1214,12 +1195,10 @@ star-mini.c10r.facebook.com
 star-mini.fallback.c10r.facebook.com
 star.fallback.c10r.facebook.com
 music.163.com
-.music.163.com
 gfe.nvidia.com
 images.nvidiagrid.net
 services.gfe.nvidia.com
 nibis.de
-.gvt2.com
 gvt2.com
 unpkg.com
 www.unpkg.com
@@ -1246,12 +1225,10 @@ assets.huluim.com
 t2.hulu.com
 activity.windows.com
 evowise.com
-.evowise.com
 tracker.trackerfix.com
 revue.com
 s.zkcdn.net
 clientstream.launchdarkly.com
-.dynatrace.com
 dynatrace.com
 om.cbsi.com
 public.vilynx.com
@@ -1259,10 +1236,8 @@ rink.hockeyapp.net
 clck.ru
 www.clck.ru
 7zap.com
-.7zap.com
 cpm.wargaming.net
 clamav.net
-.clamav.net
 images.performgroup.com
 daemon-tools.cc
 www.datadoghq-browser-agent.com
@@ -1297,11 +1272,9 @@ accounts.nvgs.nvidia.com
 by.uservoice.com
 landsend.com
 netdna-ssl.com
-.privacy-center.org
 privacy-center.org
 overstock.com
 partners.salesforce.com
-.partners.salesforce.com
 lgin.msa.trafficmanager.net
 feedspot.com
 vms.bluebillywig.com
@@ -1343,7 +1316,6 @@ geo.opera.com
 yusercontent.com
 upgrade.scdn.co
 ccmbg.com
-.settings-win.data.microsoft.com
 settings-win.data.microsoft.com
 gigatribe.com
 ws.pusherapp.com
@@ -1355,11 +1327,9 @@ proxy00.spop.ams.plex.bz
 thetvdb.plexapp.com
 tvdb2.plex.tv
 cdc.gov
-.cdc.gov
 worldometers.info
 coronavirus.jhu.edu
 www.who.int
-.who.int
 rivm.nl
 www.rivm.nl
 ohio.gov
@@ -1374,7 +1344,6 @@ www.maine.gov
 ncdhhs.gov
 covid19.ncdhhs.gov
 paho.org
-.paho.org
 bit.do
 staticxx.facebook.com
 ae01.alicdn.com
@@ -1470,13 +1439,11 @@ public.sn.files.1drv.com
 fide.com
 www.fide.com
 ct.sendgrid.net
-.ct.sendgrid.net
 yourlabs.org
 en25.com
 img.en25.com
 eloqua.com
 t.eloqua.com
-.t.eloqua.com
 shop.zaloapp.com
 shop.zalo.me
 zalo.me
@@ -1523,7 +1490,6 @@ playhydrax.com
 drift.com
 js.intercomcdn.com
 safelinks.protection.outlook.com
-.safelinks.protection.outlook.com
 geolocation.onetrust.com
 error.fc2.com
 cafe24.com
@@ -1712,9 +1678,7 @@ cookiebot.com
 altervista.org
 www.real-markt.de
 wire.com
-.wire.com
 api.binance.com
-.api.binance.com
 www.notion.so
 notion.so
 getresponse.com
@@ -1751,7 +1715,6 @@ glomex.com
 player-feedback-v1.glomex.com
 cdn.privacy-mgmt.com
 hisense.com
-.damoh.schneevonmorgen.com
 damoh.schneevonmorgen.com
 strato.de
 shein.com
@@ -1787,7 +1750,6 @@ click.redditmail.com
 vendorlist.dmcdn.net
 airbnb.com.au
 gouv.fr
-.gouv.fr
 nutaku.com
 mobileapi.nutaku.com
 ucoz.ru
@@ -1817,7 +1779,7 @@ get.untangle.com
 www5.untangle.com
 tigase.net
 tigase.tech
-.us.archive.org
+us.archive.org
 simplelogin.co
 hearstnp.com
 noscript.net
@@ -1883,7 +1845,6 @@ ccgslb.com.cn
 eindependencia.edu.mx
 telegra.ph
 pxf.io
-.nuskin.com
 nuskin.com
 d1bd3wxsyuz0t7.cloudfront.net
 www.amazonforum.com
@@ -1911,7 +1872,6 @@ vlscppe.microsoft.com
 filedropper.com
 mindvalley.com
 www.mindvalley.com
-.etrality.com
 etrality.com
 speedcheck.org
 api.speedspot.org
@@ -2066,7 +2026,6 @@ mirakl.net
 g.ezoic.net
 hcdnw.cbg.haiwai.c.cdnhwc1.com
 ytechb.com
-.minexmr.com
 minexmr.com
 compaq.com
 tms.nab.com.au
@@ -2085,7 +2044,6 @@ content.ctfs.com
 segura-moto.fr
 encrypted-tbn1.gstatic.com
 dnainfotel.com
-.dnainfotel.com
 turnip.cdn.turner.com
 medium.ngtv.io
 stackpath.com
